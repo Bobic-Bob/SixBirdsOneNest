@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3166935470212810652
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.data[0]._stageSound
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.data[1]._stageSound
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.data[2]._stageSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6592f85cb6ceae64aa3dffe51291808f, type: 3}
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.data[3]._stageSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6592f85cb6ceae64aa3dffe51291808f, type: 3}
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.data[4]._stageSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 5672954574982b54eab0cf8007fe0c1d, type: 3}
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.data[0]._massToStage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.data[0]._stageSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 6f77ae5874699f2479a53cece73838e8, type: 3}
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.data[1]._massToStage
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.data[1]._stageSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: b095ffa619129e14ea79579ebe014a45, type: 3}
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.data[2]._massToStage
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.data[2]._stageSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 7896adec6003ee5498e58eb162993074, type: 3}
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.data[3]._massToStage
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.data[3]._stageSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 1ab1eba61797f2f448f051dbf01b05ab, type: 3}
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.data[4]._massToStage
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.data[4]._stageSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 1ab1eba61797f2f448f051dbf01b05ab, type: 3}
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.data[0]._deadByRockSound
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.data[0]._stageDeadSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: c11087d77404f384dade772cd8709fdf, type: 3}
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.data[0]._stageStartSound
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.data[1]._stageDeadSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: be5dac5e8b4bd4b4bb1a1fad119923e1, type: 3}
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.data[1]._stageStartSound
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.data[2]._stageDeadSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 7f9f1cdd5e25a8746a7af1f2048d92f7, type: 3}
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.data[3]._stageDeadSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5cc492258d996d44f8ef868dd747c6c2, type: 3}
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.data[4]._stageDeadSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5cc492258d996d44f8ef868dd747c6c2, type: 3}
+    - target: {fileID: -543770716795455092, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: birdStages.Array.data[0]._deadFallOutSound
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 408846966391683546, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: m_Name
+      value: Bird Start 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1188334446166269723, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1236129555144053642, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1236129555144053642, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1236129555144053642, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1236129555144053642, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1236129555144053642, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1236129555144053642, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1236129555144053642, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1236129555144053642, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1236129555144053642, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1236129555144053642, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1236129555144053642, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1408356330828465591, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: m_Mass
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4475766793936918130, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: b095ffa619129e14ea79579ebe014a45, type: 3}
+    - target: {fileID: 7090627235604271257, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: eb2b4782a0b9f0e4eb147062632ce88d, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fa912de1276bc234e92a61fa711a8764, type: 3}
